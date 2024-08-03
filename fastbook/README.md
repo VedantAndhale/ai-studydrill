@@ -1,0 +1,1 @@
+[Fastbook](https://fastai.github.io/fastbook2e/intro.html) this is clean version of fast.ai book for my personal use.
