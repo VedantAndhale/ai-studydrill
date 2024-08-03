@@ -12,10 +12,4 @@
          }
      },
 
-    "hostRequirements": {
-        "storage": "64gb"
-    },
-    "runArgs": [
-        "--shm-size=16g"
-    ]
 }
